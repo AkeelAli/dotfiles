@@ -8,3 +8,6 @@ alias vdir='ls --color=auto --format=long'
 alias mkcscope='util/bin/ios-ng-mkcscope -a'
 alias file_bug='/ws/akeali-ott/satellite/satellite_it_bug.pl'
 alias la='ls -a'
+
+git config --global user.name "Akeel Ali"
+git config --globa user.email "agilowen@gmail.com"
